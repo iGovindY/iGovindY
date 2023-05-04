@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Govind's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ygov&theme=light)](https://github.com/igovindy)
+
 <!--
 **iGovindY/iGovindY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
